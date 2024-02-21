@@ -4,4 +4,4 @@ This repository has 4 files representating the basic Data Structures using some 
 
 1. LibraryCatalogue: Singly Linked list.
 2. inventoryManagement: Arrays
-3. musicPlayList: Doublye Linked List
+3. musicPlayList: Doubly Linked List
